@@ -14,7 +14,7 @@
 	<name>fuegoquasar</name>
 	<description>Spring Boot Fuego de Quasar</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<packaging>war</packaging>
 	<dependencies>
